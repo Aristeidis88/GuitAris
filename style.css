@@ -1,0 +1,177 @@
+body {background-image: url("background.jpg");
+      background-repeat: cover;}
+
+.navbar-brand{font-size: 35px;
+              font-weight: 500;}
+
+.btn-outline-success img {width: 20px;
+             height: 20px;}
+
+.basket {margin: inherit;
+         font-weight: 700;}
+
+
+
+
+.card {border: double ;
+       border-color: purple;}
+
+.price{color: red;
+  font-weight: 900;
+  font-size: 20px;}
+.pound-symbol{color: red;
+  font-weight: 900;
+  font-size: 20px;}
+
+.btn-success {margin-left: 18%;}
+
+
+
+  footer {padding-top: 10px;
+          margin-top: 10px;
+          background-color: black;
+          height: 250px;}
+
+  footer p {color: white;}
+
+.footer-nest {margin-top: 100px;}
+
+
+.shop-card{width: 1000px;
+           height: 600px;
+           background-color: white;
+           margin: auto;
+           border: double;
+           border-color: purple;
+           border-radius: 0px 0px 10px 10px;
+           display: flex;
+           padding: 10px;}
+
+
+.card{width: 240px;
+       height: 580px;}
+
+.buy{margin: auto;
+     margin-top: 850px;
+     width: 1000px;
+           height: 200px;
+           background-color: white;
+           margin: auto;
+           border: double;
+           border-color: purple;
+           border-radius: 0px 0px 10px 10px;}
+
+
+.group-btn{margin: auto;
+           margin-left: 34%;}
+
+
+
+.first-row{display: flex;
+           margin-left: 14%;
+           padding-top: 70px;
+           }
+
+.total-price{text-align: center;
+             margin-top: 110px;}
+
+h6{font-size: 20px;}
+
+.labels{display: flex;}
+
+#btn-buy{width: 160px;}
+
+
+@media only screen and (min-width:200px) and (max-width:1100px){
+
+
+.navbar-toggler-icon{margin-left: 600px;}
+
+.navbar-brand{font-size: 55px;}
+
+.nav-link{font-size: 45px;}
+
+.dropdown-item{font-size: 40px;}
+
+.btn-outline-success{height: 120px;
+                     width: 100px;
+                     float: right;}
+
+.btn-outline-success img {width: 50px;
+                          height: 50px;}
+
+.basket {font-size: 35px;}
+
+
+.first-row{margin-left: -3px;
+           display: block;}
+
+.card-img-top{width: 100%;}
+
+.card-title{font-size: 50px;}
+
+.card-text{font-size:35px;}
+
+.card{margin: auto;
+  width: 70%;
+  height: 100%;}
+
+.price{font-size: 50px;}
+.pound-symbol{font-size: 50px;}
+
+
+
+.btn-success{width: 200px;
+             height: 100px;
+             margin-left: 33%;
+             font-size: 30px;}
+
+.shop-card{height: 100%;}
+
+h6{font-size: 50px;}
+
+.buy{height: 400px;}
+
+#btn-buy{width: 320px;
+         height: 130px;
+        font-size: 40px;
+        margin-left: -160px;}
+
+         #btn-clear{width: 320px;
+          height: 130px;
+          font-size: 40px;}
+
+
+footer{height: 900px;
+       width: 100%;}
+
+.footer-nest{padding-top: 100px;}
+
+footer a {font-size: 35px;}
+
+footer p {font-size: 50px;}
+
+
+
+
+
+
+         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
